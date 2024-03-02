@@ -10,24 +10,24 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-.venv/
-env/
-bin/
-build/
-develop-eggs/
-dist/
-eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-include/
-man/
-venv/
-*.egg-info/
-.installed.cfg
-*.egg
+# .venv/
+# env/
+# bin/
+# build/
+# develop-eggs/
+# dist/
+# eggs/
+# lib/
+# lib64/
+# parts/
+# sdist/
+# var/
+# include/
+# man/
+# venv/
+# *.egg-info/
+# .installed.cfg
+# *.egg
 
 # Installer logs
 #pip-log.txt
