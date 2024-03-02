@@ -9,7 +9,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python
+# .Python
 # .venv/
 # env/
 # bin/
